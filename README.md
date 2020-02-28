@@ -3,3 +3,4 @@
 * _Day1 完成MSE公式 選擇一組dataset並說明WHAT, WHO, WHICH_
 * _Day2 ML應用前景，可能的發展_
 * _Day3 文章閱讀 技術所使用到的datasets, 方法, 目標_
+* _Day4 HTTP Server-Client 架構說明與 利用 Python 存取 API
